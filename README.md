@@ -22,6 +22,6 @@ Alkol Defteri, kullanıcılarının gizliliğine önem verir. Bu uygulama, kulla
 Gizlilik politikası zaman zaman güncellenebilir. Güncellemeler bu sayfa üzerinden paylaşılacaktır.
 
 **İletişim**
-Herhangi bir soru veya talep için: [e-posta adresinizi buraya yazın]
+Herhangi bir soru veya talep için: [yvzz.batuhan@gmail.com]
 
 Son güncelleme: 29.04.2025
